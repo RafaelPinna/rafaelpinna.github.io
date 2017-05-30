@@ -1,0 +1,6 @@
+h1 {
+    font-family: "Megrim", cursive;
+    text-align: center;
+    opacity: 0.9;
+    filter: Alpha(opacity=90);
+}
