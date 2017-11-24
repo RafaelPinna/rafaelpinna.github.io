@@ -1,1 +1,1 @@
-http://rafaelpinna.github.io/teste
+http://teste.rafaelpinna.github.io
